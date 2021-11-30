@@ -6,6 +6,8 @@
    
   https://note-taker-gstockha.herokuapp.com/
    
+  ![notetaker](https://user-images.githubusercontent.com/54012873/143990995-2b70aa0f-1850-414f-8123-7ecb70b4729a.png)
+
   
   ## Table of Contents
 
